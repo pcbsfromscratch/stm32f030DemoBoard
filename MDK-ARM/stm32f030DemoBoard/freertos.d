@@ -1,0 +1,13 @@
+stm32f030demoboard\freertos.o: ../Src/freertos.c
+stm32f030demoboard\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+stm32f030demoboard\freertos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32f030demoboard\freertos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f030demoboard\freertos.o: ../Inc/FreeRTOSConfig.h
+stm32f030demoboard\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+stm32f030demoboard\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+stm32f030demoboard\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+stm32f030demoboard\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+stm32f030demoboard\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+stm32f030demoboard\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+stm32f030demoboard\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+stm32f030demoboard\freertos.o: ../Inc/main.h
